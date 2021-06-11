@@ -1,5 +1,5 @@
-## [The Big Game](https://github.com/AminAlAit/shows-big-game)
-### [TV, Halftime Shows, and Football](https://github.com/AminAlAit/shows-big-game)
+## [The Big Game](https://github.com/AminAlAit/shows-big-game/blob/main/notebook.ipynb)
+### [TV, Halftime Shows, and Football](https://github.com/AminAlAit/shows-big-game/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
